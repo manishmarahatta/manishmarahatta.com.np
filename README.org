@@ -1,1 +1,3 @@
-from org mode to web
+Source for https://manishmarahatta.com.np, I don't really accept pull requests but you can read it if you want :)
+
+
