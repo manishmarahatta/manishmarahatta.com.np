@@ -1,0 +1,44 @@
+{{ $baseurl := .Site.BaseURL }}
+    <div>
+        <section id="datecount">
+          <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+          <h5 id="wc"> {{ .FuzzyWordCount }} Words </h5>
+          <h5 id="readtime"> Read in about {{ .ReadingTime }} Min </h5>
+        </section>
+        <ul id="categories">
+          {{ range .Params.topics }}
+            <li><a href="{{ $baseurl }}/topics/{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+        <ul id="tags">
+          {{ range .Params.tags }}
+            <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+    </div>
+
+    <div>
+        <section id="prev">
+            &nbsp;{{if .Prev}}<a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
+        </section><section id="next">
+            &nbsp;{{if .Next}}<a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
+        </section>
+    </div>
+
+    <div>
+        <section id="author">
+             <h4>About the Author:</h4>
+            <p>
+            Manish Marahatta is a Digital Nomad having a peculiar choice in <a href="https://www.gnu.org/s/emacs/">Emacs</a> and <a href="https://python.org">Python.</a>
+            He loves open source and is thrilled being able to work on it every oppurtunity he gets. In writing, Manish tweets as <a href="https://twitter.com/MMarahatta">@MMarahatta</a>,
+            codes on <a href="https://github.com/manishmarahatta">GitHub</a>,
+            blogs at <a href="https://manishmarahatta.com.np">manishmarahatta.com.np</a>,
+            connects on <a href="https://www.linkedin.com/np/manishmarahatta">LinkedIn</a>,
+            ocassionally posts on <a title="Author: Manish Marahatta on Google+" rel="author" href="https://plus.google.com/+ManishMarahatta" target="_blank">Google+</a>
+            and is writting some works.
+            </p><p>
+            In person, he enjoys giving explanation why emacs is better than any other editor and spending time with the
+            developer community around the world. When not coding, he is usually having fun reading books and being outdoors.
+            </p>
+        </section>
+    </div>
