@@ -17,21 +17,7 @@ disqus_title: You are Lucky
 disqus_url: https://manishmarahatta.com.np/post/you-are-lucky/
 ---
 
-```
-I miss you man, won't you please come back,
-you were in pain i didn't knew that.
-
-It's hard to hide behind this frown,
-I fake my happiness to show nothing's wrong.
-
-So this I am writing to lessen the pain,
-And maybe just somehow you'll hear me again.
-
-And if on occasion you notice I cry,
-You'll understand I didn't want you to die.
-```
-
-It's almost two years since the original writer of this blog post passed away. I haven't met anyone that's remotely more genuine than him. Return if Possible Mohit.
+It has been almost two years since the original writer of this blog post passed away. I haven't met anyone that's remotely more genuine than him. Return if Possible Mohit.
 
 When life put me down in tough situation, I never said 'Why me?' I just said 'Try me'. - Mohit
 

@@ -1,5 +1,5 @@
 +++
-Title = "Viper : Go configuration management with Fangs"
+Title = "Manish Marahatta"
 Date = "2014-04-07"
 Description = ""
 Tags = ["Development", "golang"]
