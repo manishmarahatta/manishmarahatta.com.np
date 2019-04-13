@@ -32,6 +32,6 @@ I am a huge fan/contributor of Open Source and to name a few, I have been involv
 * **Keybase:** [@manishmarahatta](https://keybase.io/manishmarahatta)
 * **Instagram:** [@marahattamanish](https://instagram.com/marahattamanish)
 * **Facebook:** [@mmarahatta](https://facebook.com/mmarahatta)
-* **Goodreads:** [@mmarahatta(https://goodreads.com/mmarahatta)
+* **Goodreads:** [@mmarahatta](https://goodreads.com/mmarahatta)
 
 \--
