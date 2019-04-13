@@ -1,0 +1,124 @@
+//  Simple fluid media
+
+figure {
+  position: relative;
+}
+figure img,
+figure object,
+figure embed,
+figure video {
+  max-width: 100%;
+  display: block;
+}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+body {
+  @include normal;
+}
+
+h1 {
+  @include huge;
+}
+
+h2 {
+  @include large;
+}
+
+h3 {
+  @include normal;
+}
+
+// May want to do the clearfix by intent rather than default
+body > header,
+body > section,
+body > aside,
+body > footer,
+body > .content {
+  @include body-container;
+}
+
+p {
+  margin-bottom: emStep(8);
+}
+
+article ul,
+article ol {
+  margin-bottom: emStep(8);
+  margin-left: emStep(8);
+}
+/* pages */
+
+.bookshelf-body p,
+.people-body p,
+.common-body p {
+  margin: 0px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.common-body span.published-date {
+  font-size: 16px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.bookshelf-body p a,
+.people-body p a {
+  border-bottom: 1px solid #000;
+  color: #000;
+}
+
+.bookshelf-list,
+.people-list,
+.common-list {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.bookshelf-list ul,
+.people-list ul {
+  margin-top: 0.1em;
+}
+
+.bookshelf-body ul li,
+.people-body ul li,
+.common-body ul li {
+  line-height: 2rem;
+}
+
+.common-body p a.no-underline {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.bookshelf-book-red {
+  color: #880404;
+}
+
+.bookshelf-book-green {
+  color: #00751c;
+}
+/* end bookshelf */
+
+/* independent classes */
+.title-bold {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+p.title-margin-top {
+  margin-top: 30px;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.content ul li,
+.content ol li {
+  line-height: 1.8em;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Year on Emacs Jedi</title>
+    <link>https://manishmarahatta.com.np/topics/year/</link>
+    <description>Recent content in Year on Emacs Jedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2012 - 2019, Manish Marahatta; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manishmarahatta.com.np/topics/year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Year in a Review - 2017</title>
+      <link>https://manishmarahatta.com.np/post/year-in-a-review/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/post/year-in-a-review/</guid>
+      <description>Tomorrow is January 1st, 2018. I sit here today, on New Years Eve, in a state of reflection as I look back on the past 365 days. I am thinking about how fast and slow this year has gone. About how much has changed.
+I’ll start with my last, but most important reason, and that is to sincerely give a big thank you. A thank you to my family, my love, my friends (new + old), my mentors, classmates, coworkers, enemies, and everyone who stood before, with, and against me.</description>
+    </item>
+    
+  </channel>
+</rss>

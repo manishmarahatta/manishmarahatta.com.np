@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Emacs Jedi</title>
+    <link>https://manishmarahatta.com.np/presentation/</link>
+    <description>Recent content in Presentations on Emacs Jedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2012 - 2019, Manish Marahatta; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 29 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manishmarahatta.com.np/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FOSS KAA KURA(Philosophy of FOSS)</title>
+      <link>https://manishmarahatta.com.np/presentation/foss-kaa-kura/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/presentation/foss-kaa-kura/</guid>
+      <description>Today, we FOSS Nepal and Mozilla Nepal organized a Pre SFD event at National School of Sciences (NSS). Pre SFD event is a part of Software Freedom Day (SFD) which is being organized on September 17 at Kathmandu and many other cities in the world. The motive of the Pre SFD event is to inform campus/college students about the SFD as well as providing awareness about open source technologies.
+There were two groups of students each with about 40 students in the event.</description>
+    </item>
+    
+    <item>
+      <title>Smart City the Open Way</title>
+      <link>https://manishmarahatta.com.np/presentation/smart-city/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/presentation/smart-city/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

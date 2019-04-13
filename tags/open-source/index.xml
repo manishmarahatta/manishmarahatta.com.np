@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Emacs Jedi</title>
+    <link>https://manishmarahatta.com.np/tags/open-source/</link>
+    <description>Recent content in Open Source on Emacs Jedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2012 - 2019, Manish Marahatta; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 17 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manishmarahatta.com.np/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Freedom Day 2016</title>
+      <link>https://manishmarahatta.com.np/post/sfd-nepal/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/post/sfd-nepal/</guid>
+      <description>Software Freedom Day 2016, Kathmandu by FOSS Nepal Community (Lead by Mr. Manish Marahatta) was a huge success with more than 10 open communities involved which includes Google Business Group (GBG Kathmandu), Open Knowledge Nepal, Wikipedia, HackProject.org, Kathmandu Living Labs, WliT, Kathmandu University Open Source Club (KUOSC) and many others. With about 500 running and staying participants, this year was one of the biggest celebration of all time. Basically, the event was categorized in three different sections: Keynote and Paper Presentations (Agrawal Hall), Discussion Fora (Stall of different communities) and Hackathon.</description>
+    </item>
+    
+    <item>
+      <title>FOSS KAA KURA(Philosophy of FOSS)</title>
+      <link>https://manishmarahatta.com.np/presentation/foss-kaa-kura/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/presentation/foss-kaa-kura/</guid>
+      <description>Today, we FOSS Nepal and Mozilla Nepal organized a Pre SFD event at National School of Sciences (NSS). Pre SFD event is a part of Software Freedom Day (SFD) which is being organized on September 17 at Kathmandu and many other cities in the world. The motive of the Pre SFD event is to inform campus/college students about the SFD as well as providing awareness about open source technologies.
+There were two groups of students each with about 40 students in the event.</description>
+    </item>
+    
+  </channel>
+</rss>

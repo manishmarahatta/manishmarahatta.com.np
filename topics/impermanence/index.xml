@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impermanence on Emacs Jedi</title>
+    <link>https://manishmarahatta.com.np/topics/impermanence/</link>
+    <description>Recent content in Impermanence on Emacs Jedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2012 - 2019, Manish Marahatta; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manishmarahatta.com.np/topics/impermanence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mujo (無常)</title>
+      <link>https://manishmarahatta.com.np/post/mujo/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/post/mujo/</guid>
+      <description>Mujō (無常) means ‘impermanence’ in Japanese. Mujō is the same as anicca(अनिच्चा/अनित्य), the word for ‘impermanence’ in Pāli. Everything within our life is constantly changing and we can be certain that nothing is permanent. Letting go of attachments can bring some level of continuous flow within our life.</description>
+    </item>
+    
+  </channel>
+</rss>

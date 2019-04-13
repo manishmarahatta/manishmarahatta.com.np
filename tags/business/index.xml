@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Emacs Jedi</title>
+    <link>https://manishmarahatta.com.np/tags/business/</link>
+    <description>Recent content in Business on Emacs Jedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2012 - 2019, Manish Marahatta; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manishmarahatta.com.np/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why your ecommerce startup will fail in Nepal</title>
+      <link>https://manishmarahatta.com.np/post/ecommerce-nepal-bad-idea/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishmarahatta.com.np/post/ecommerce-nepal-bad-idea/</guid>
+      <description>Everyone back in Nepal want to grab the lucarative ecommerce business which seems to be doing well in India along with other part of Asia but thing here in Nepal is quite different. Beforing going big with ecommerce business you should know the business ecosystem of Nepal along with the user behaviour and tech penetration. Most e-commerce websites/startups based in Nepal fail due to the various reasons. Let’s check out some reason which can push your e-commerce into the dead-pool.</description>
+    </item>
+    
+  </channel>
+</rss>
